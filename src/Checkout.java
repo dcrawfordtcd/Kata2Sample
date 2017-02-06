@@ -16,10 +16,13 @@ public class Checkout {
 	
 	public void addProduct(String name, int cost){
 		//TODO
+		//Names are presumed to be single characters
 	}
 	
 	public void addDeal(String id, int cost){
 		//TODO
+		// eg, "AAA, 130" means three As cost 130 as a deal
+		// 	   "AB, 75" means that an A and a B cost 75 as a deal
 	}
 	
 	public int priceBasket(Basket basket) {
