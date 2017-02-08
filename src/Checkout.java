@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Checkout {
 	
-	public Checkout() {};
+	public Checkout() {}
 	
 	public void addAllRules(String rules) {
 		/*
